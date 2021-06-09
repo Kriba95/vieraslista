@@ -12,20 +12,15 @@
   }
 ?>
 
-
 <?php 
     include_once('header.php');
 ?>
-
-
-
 
 <div class="section-container">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-6">
-<p>hello</p>
-
+                <p>Terve!!!!</p>
             </div>
             <div class="col-xs-12 col-md-6">
                 <h4>Guestbook</h4>
@@ -36,9 +31,6 @@
                         <button style="float: right;" type="submit" class="btn btn-primary" name="komment">Send</button>
                     </fieldset>
                 </form>
-                <button onclick=showKomments()> Clcik</button>
-                
-
             </div>
         </div>
     </div>

@@ -9,7 +9,7 @@
   <meta name="google" content="notranslate" />
   <meta name="msapplication-tap-highlight" content="no">
   <link href="./assets/apple-touch-icon.png" rel="apple-touch-icon">
-  <title>Omat sivut</title>  
+  <title>vieraslista</title>  
 <link href="../css/main.css" rel="stylesheet">
 
 <link

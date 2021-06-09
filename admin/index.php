@@ -16,20 +16,15 @@
 } else header("location: kirjaudu_error.php"); //Muuten tulee kirjaudu error
 ?>
 
-
 <?php 
     include_once('header.php');
 ?>
-
-
-
 
 <div class="section-container">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-6">
-    <p>Hello</p>
-
+                <H1>HELLOU ADMIN</H1>
             </div> 
             <div class="col-xs-12 col-md-6">
                 <h4>Guestbook</h4>
@@ -40,8 +35,6 @@
                         <button style="float: right; background-image: linear-gradient(to right, rgb(162 9 9 / 0%) 0%, #000000 100%)" type="submit" class="btn btn-primary" name="komment">Send</button>
                     </fieldset>
                 </form>
-                
-
             </div>
         </div>
     </div>

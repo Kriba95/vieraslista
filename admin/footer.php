@@ -3,11 +3,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <h4>Options Poll</h4>
-                    <a href="contact.php">Contact</a>
-                    <a href="newPoll.php">Create New Poll</a>
-                    <a href="index.php">Listed Polls</a>
-                    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <h4>Perus vieraslista</h4>
+                    <a href="index.php">Etusivu</a>
+                    <br>
+                    <a href="../login/index.php">Back to Normal Page</a>
+
+                    
+                    
                 </div>
             </div>
         </div>
